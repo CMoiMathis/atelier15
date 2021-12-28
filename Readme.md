@@ -1,11 +1,3 @@
-# Exercice hello world
-
-Created: December 21, 2021 11:51 PM
-Durée: 1h08
-Facturé: No
-Last Edited Time: December 28, 2021 9:20 AM
-Type: Prep
-
 # Exercice initiation Visual Studio
 
 ### Partie 1 : Cloner le projet

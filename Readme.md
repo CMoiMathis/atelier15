@@ -21,7 +21,7 @@
 sortie += nomUtilisateurEntreeUsager;
 ```
 
-1. Que se passe t’il si vous dupliquez la ligne 2 ? 
+2. Que se passe t’il si vous dupliquez la ligne 2 ? 
 Pour voir les erreurs du projet, cliquez sur le *x* rouge en bas à gauche de l’ide.
     
     ![Untitled](Exercice%20hello%20world%203f9bb712de5a46f28e4f76da113b031d/Untitled%202.png)

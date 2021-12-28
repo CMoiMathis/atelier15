@@ -44,7 +44,7 @@ Pour ce faire, inspirez-vous (fortement) du code présent pour demander à l’u
 Ensuite, affichez le nom en majuscules. Il existe une méthode qui permet d’afficher un string en majuscule qui s’appelle : maVariableQuiContientLeString.ToUp...(). Pour découvrir le reste du nom de la méthode, utilisez le raccourci clavier ctrl + espace pour faire apparaître des suggestions. Finalement, naviguez ces suggestions avec les flèches haut/bas et faites tab pour l’insérer.
 3. Pusher vos modifications sur github classroom. Pour ce faire, ouvrez le menu de commit de visual studio.
     
-    ![Untitled](Exercice%20initiation%20Visual%20Studio%203f9bb712de5a46f28e4f76da113b031d/Untitled%203.png)
+![Untitled](Exercice%20initiation%20Visual%20Studio%203f9bb712de5a46f28e4f76da113b031d/Untitled%203.png)
     
 
 Ensuite, entrez un message de commit et sélectionnez du menu déroulant l’option commit all and push.

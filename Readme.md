@@ -55,7 +55,9 @@ Ensuite, entrez un message de commit et sélectionnez du menu déroulant l’opt
 
 À la place d’afficher le nom complet de l’utilisateur, faites afficher uniquement ses initiales. Donc, à la place d’afficher *Hello Joe DOE* , faite afficher *Hello JD*.
 
-Indice : 
->!Pour accéder au à un caractère spécifique d’un string, voici la syntaxe : monString[index] (remplacer monString par votre nom de variable et index par 0, 1, 2 ... selon la position du caractère voulu)
+<details>
+<summary>Indice</summary>
+Pour accéder au à un caractère spécifique d’un string, voici la syntaxe : monString[index] (remplacer monString par votre nom de variable et index par 0, 1, 2 ... selon la position du caractère voulu)
+</details>
 
 Si le bonus est complété, créez un nouveau commit et pusher vous modification de nouveau (même procédure que l’étape précédente).

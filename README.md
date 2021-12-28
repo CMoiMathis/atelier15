@@ -3,7 +3,7 @@
 ## Partie 1 : Cloner le projet
 
 1. Clonez le dépôt de GitHub Classroom.
-2. Ouvrez le projet dans Visual Studio 2022 en double cliquant sur le fichier atelier15.sln.
+2. Ouvrez le projet dans Visual Studio 2022 en double cliquant sur le fichier "atelier15.sln".
 3. Exécutez le projet à l’aide du triangle vert en haut de l’EDI (en : IDE) (voir ci-dessous).
 
 ![Démarrer votre programme](img/demarrer.png)
@@ -22,7 +22,7 @@ sortie += nomUtilisateurEntreeUsager;
 
 2. Que se passe-t-il si vous dupliquez la ligne 2 ?
 
-Pour voir les erreurs du projet, cliquez sur le *x* rouge en bas à gauche de l’ide.
+Pour voir les erreurs du projet, cliquez sur le ```x``` rouge en bas à gauche de l’EDI.
 
 ![Affichage des erreurs](img/erreurs_codage.png)
 
@@ -42,8 +42,22 @@ Pour ce faire, inspirez-vous (fortement) du code présent pour demander à l’u
 
 Ensuite, affichez le nom en majuscules. Il existe une méthode qui permet d’afficher une chaîne de caractères en majuscule qui s’appelle : ```maVariableQuiContientLaChaine.ToUp...()```. Pour découvrir le reste du nom de la méthode, utilisez le raccourci clavier [Ctrl] + [espace] pour faire apparaître des suggestions. Finalement, naviguez ces suggestions avec les flèches haut/bas et faites tab pour l’insérer.
 
+3. Poussez vos modifications sur GitHub Classroom. Pour ce faire, ouvrez le menu de "commit" de Visual studio.
+
+![Faire un commit](img/commit_or_stash.png)
+
+Ensuite, entrez un message de commit et sélectionnez du menu déroulant l’option commit all and push.
+
+![Faire un commit](img/commit.png)
+
 ## Bonus : Afficher les initiales
 
 À la place d’afficher le nom complet de l’utilisateur, faites afficher uniquement ses initiales. Donc, à la place d’afficher ```Hello Joe DOE```, faite afficher ```Hello JD```.
 
-Indice : pour accéder au à un caractère spécifique d’une chaine de caractères, voici la syntaxe : maChaine[index] (remplacer maChaine par votre nom de variable et index par 0, 1, 2 ... selon la position du caractère voulu)
+<details>
+
+<summary>Indice</summary>
+Pour accéder au à un caractère spécifique d’une chaine de caractères, voici la syntaxe : maChaine[index] (remplacer maChaine par votre nom de variable et index par 0, 1, 2 ... selon la position du caractère voulu)
+</details>
+
+Si le bonus est complété, créez un nouveau commit et pusher vous modification de nouveau (même procédure que l’étape précédente).

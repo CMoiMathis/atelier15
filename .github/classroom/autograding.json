@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test Joe",
+      "setup": "",
+      "run": "dotnet run --project HelloAtelier",
+      "input": "Joe",
+      "output": "Hello Joe",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}

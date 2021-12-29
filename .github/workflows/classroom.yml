@@ -1,0 +1,19 @@
+name: GitHub Classroom Workflow
+
+on: [push]
+
+jobs:
+  build:
+    name: Autograding
+    runs-on: ubuntu-latest
+    env:
+      DOTNET_CLI_HOME: /home/runner
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup dotnet
+        uses: actions/setup-dotnet@v1
+        with:
+            dotnet-version: '6.0.x'
+      - run: dotnet restore
+      - run: dotnet build
+      - uses: PiFou86/autograding@v4

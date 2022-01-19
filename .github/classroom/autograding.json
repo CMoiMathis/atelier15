@@ -3,9 +3,9 @@
     {
       "name": "Test Joe",
       "setup": "",
-      "run": "dotnet run --project HelloAtelier",
-      "input": "Joe",
-      "output": "Hello Joe",
+      "run": "export DOTNET_CLI_HOME=/home/runner && dotnet run --project HelloAtelier",
+      "input": "Joe\n\rDOE",
+      "output": "Hello Joe DOE",
       "comparison": "included",
       "timeout": 1,
       "points": null

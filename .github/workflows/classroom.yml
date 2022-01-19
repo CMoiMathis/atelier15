@@ -9,6 +9,7 @@ jobs:
     env:
       DOTNET_CLI_HOME: /home/runner
       DOTNET_NOLOGO: true
+      DOTNET_SKIP_FIRST_TIME_EXPERIENCE: true
     steps:
       - uses: actions/checkout@v2
       - name: Setup dotnet

@@ -2,7 +2,7 @@
 
 ## Partie 1 : Cloner le projet
 
-1. Clonez le [dépôt de GitHub Classroom]() TODO. Au besoin, consultez [la procédure de l'atelier 13.](https://github.com/PiFou86/420-W00-SF/blob/3360bf2eb7ec4fa16ac22133f7120c864d0c4891/EXERCICES01.md) 
+1. Clonez le dépôt de GitHub Classroom. Au besoin, consultez [la procédure de l'atelier 13.](https://github.com/PiFou86/420-W00-SF/blob/3360bf2eb7ec4fa16ac22133f7120c864d0c4891/EXERCICES01.md) 
 **Faites attention à bien utiliser le nouveau lien classroom, sinon, vous allez refaire l'ancien exercice !**
 2. Ouvrez le projet dans Visual Studio 2022 en double cliquant sur le fichier "atelier15.sln".
 3. Exécutez le projet à l’aide du triangle vert en haut de l’EDI (en : IDE) (voir ci-dessous).

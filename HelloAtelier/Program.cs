@@ -1,7 +1,7 @@
 Console.Out.WriteLine("Entrez votre prénom suivi de enter");
-string? nomUtilisateurEntreeUsager = Console.In.ReadLine();
+var nomUtilisateurEntreeUsager = Console.In.ReadLine();
 
-string sortie = "Hello ";
+var sortie = "Hello ";
 sortie += nomUtilisateurEntreeUsager;
 
-Console.WriteLine(sortie);
+Console.Out.WriteLine(sortie);
